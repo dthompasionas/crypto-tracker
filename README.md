@@ -2,6 +2,9 @@
 
 https://github.com/dthompasionas/crypto-tracker
 
+Deployed:
+https://crypto-tracker-v1.netlify.app/
+
 # Description
 An app to track the prices and info of crypto currencies
 
